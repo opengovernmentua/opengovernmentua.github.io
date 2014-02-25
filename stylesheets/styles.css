@@ -890,11 +890,12 @@ footer {
   #banner #logo {
     margin-right: 15px;
   }
-  
-  div.fb-like {
+
+  div.fb-like.fb-like.fb_iframe_widget {
     margin-top: 12px;
-    margin-left: 600px;
+    margin-left: 700px;
   }
+
 
   section {
     border: 1px solid #e5e5e5;
